@@ -1,8 +1,7 @@
 # Ignore these directories:
 prova/
-
+.ipynb_checkpoints/
 # Ignore temporary files:
 stringdb.txt
 ensembldb.txt
 protein_domains_vs_string_degree.png
-.ipynb_checkpoints

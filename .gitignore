@@ -2,4 +2,6 @@
 prova/
 
 # Ignore temporary files:
-
+stringdb.txt
+ensembldb.txt
+protein_domains_vs_string_degree.png
